@@ -3,7 +3,7 @@
   font-family: "nbsp-font";
   font-style: normal;
   font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font@d109ea27ae77647e35c4064ce334a3775b5aeb15/nbsp-font.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font/nbsp-font.ttf");
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-family: "space-font";
   font-style: normal;
   font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font@d109ea27ae77647e35c4064ce334a3775b5aeb15/space-font.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font/space-font.ttf");
 }
 
 @font-face {
@@ -19,5 +19,5 @@
   font-family: "WscFont";
   font-style: normal;
   font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font@d109ea27ae77647e35c4064ce334a3775b5aeb15/WscFont.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/StevaNNN/space-font/WscFont.ttf");
 }
